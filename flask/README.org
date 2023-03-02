@@ -10,6 +10,6 @@ https://flasksite.saybaw.repl.co/login
 
 username and password is 'admin'
 
-Please note, I didn't turn in my assignment 1, so all the routes, features, etc. are new.
+Please note, I didn't turn in my assignment 1 on time, so all the routes, features, etc. are new.
 
 
